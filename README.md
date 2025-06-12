@@ -35,9 +35,6 @@ Vibe Check Bot is a Discord bot that recommends music based on your current mood
 - [Railway](https://railway.app/) for 24/7 hosting
 
 
-
-> 🎵 You must also create a Spotify Developer App at https://developer.spotify.com/dashboard to get the client ID & secret.
-
 ---
 
 ## 📂 Project Structure
